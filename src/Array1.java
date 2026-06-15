@@ -1,7 +1,5 @@
 /**
- * Statement of AuthorShip - I Yash Khanduja, 000826385 hereby declare that this Assessment is my own work and that I have not copied it from anyone.
  * @author - Yash Khanduja
- * @date - 25th-01-2021
  */
 
 import java.io.File;
@@ -12,7 +10,7 @@ import java.util.Scanner;
 
 /**
  * Class Array - Main method with Implementation of Four Questions - Mountain Valleys and Peaks
- * @author Yash Khanduja, 000826385
+ * @author Yash Khanduja
  */
 public class Array1 {
     static int [] fileSizeRow = new int[3];
